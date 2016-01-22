@@ -5,7 +5,7 @@
     "gems": ["bundler"]
   },
   "postgresql": {
-  	"user": "db_user",
-  	"pass": "db_pass"
+    "user": "db_user",
+    "pass": "db_pass"
   }
 }
